@@ -11,7 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "jest",
-    "build": "npm run build"
+    "build": "tsc"
   },
   "author": "jrw@mit.edu",
   "license": "MIT"
