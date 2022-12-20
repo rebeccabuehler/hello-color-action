@@ -7,12 +7,12 @@
     "@actions/core": "^1.2.4",
     "@actions/github": "^3.0.0",
     "jest": "^26.0.1",
-    "typescript": "^3.5.3"
+    "node": "12.0.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "jest",
-    "build": "tsc"
+    "build": "npm run build"
   },
   "author": "jrw@mit.edu",
   "license": "MIT"
