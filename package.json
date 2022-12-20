@@ -6,14 +6,12 @@
   "dependencies": {
     "@actions/core": "^1.2.4",
     "@actions/github": "^3.0.0",
-    "jest": "^26.0.1",
-    "node": "12.0.0",
-    "react-scripts": "4.0.3"
+    "jest": "^26.0.1"
   },
   "devDependencies": {},
   "scripts": {
     "test": "jest",
-    "build": "react-scripts-build"
+    "build": "npm build"
   },
   "author": "jrw@mit.edu",
   "license": "MIT"
